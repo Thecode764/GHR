@@ -30,8 +30,8 @@ function Navbar() {
                   </ul>
               </div>
               <div className="navbar-end">
-                <a href="/docs">
-                    <button className="btn">GHL Docs</button>
+                <a href="https://github.com/Thecode764/GHR">
+                    <button className="btn">Power by GHR</button>
                 </a>
               </div>
             </div>
