@@ -31,7 +31,7 @@ function Navbar() {
               </div>
               <div className="navbar-end">
                 <a href="https://github.com/Thecode764/GHR">
-                    <button className="btn">Power by GHR</button>
+                    <button className="btn">Power by GHR OR GHL</button>
                 </a>
               </div>
             </div>
