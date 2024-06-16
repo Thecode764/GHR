@@ -8,7 +8,7 @@ function User() {
             <div className="flex flex-col justify-center items-center font-mono">
                 <img src="https://github.com/Thecode764.png" className="w-28 rounded-lg" alt="Profile Picture" />
                 <h1 className="mt-5 text-white">Artin Karimi</h1>
-                <p className="text-gray-300">A web developer i code python too.</p>
+                <p className="dark:text-gray-300 text-slate-800">A web developer i code python too.</p>
                 <Followers_and_following />
                 <div className="flex justify-center items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="bi bi-geo-alt w-7 mt-5" viewBox="0 0 16 16">
